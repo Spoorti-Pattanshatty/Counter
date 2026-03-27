@@ -1,0 +1,42 @@
+@import url('https://fonts.cdnfonts.com/css/signika-sc-2');
+
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: "Product Sans", sans-serif;
+    height: 100vh;
+}
+
+.counter_container{
+    display: flex;
+    justify-content: center;
+    justify-content:space-between ;
+    align-items: center;
+    margin: 250px auto;
+    width: 450px;
+    background: #833AB4;
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    border-radius: 20px;
+    padding: 20px 30px;
+    box-shadow: 0px 0px 100px #833AB4;
+}
+
+.btn{
+    font-size: 100px;
+    background:none ;
+    border: none;
+    font-weight: bold;
+    color: white;
+}
+
+.ctr_data{
+    font-size: 100px;
+    font-weight: bold;
+}
+
