@@ -53,7 +53,7 @@ project/
 <img width="1914" height="906" alt="image" src="https://github.com/user-attachments/assets/3e3f170b-0919-482f-af71-e4d597e056c7" />
 
 
-
+clone:https://github.com/Spoorti-Pattanshatty/Counter.git
 
 
 
